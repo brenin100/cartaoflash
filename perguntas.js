@@ -1,30 +1,37 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'UFC',
+    'Qual o maior lutador da historia?',
+    'Jon jones'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Futebol',
+    'Qual maior campeão da Champions League',
+    'Real Madrid'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Atualidade',
+    'Qual o quase primeiro trilionário do mundo?',
+    'Elon Musk'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Qual o maior animal do mundo?',
+    'Baleia Azul'
 )
 
 
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Biologia',
+    'Qual o animal que mais mata no mundo? ',
+    'Mosquito'
+)
+
+
+criaCartao(
+    'Futebol',
+    'Qual o maior campeão da Copa Libertadores?',
+    'Independiente - ARG'
 )
